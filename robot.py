@@ -13,3 +13,5 @@ for i in range(100):
     my_rad = my_rad + 1
 
 t.exitonclick()
+
+print("test")
