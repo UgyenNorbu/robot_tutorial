@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="985051f5-d126-4a6b-bfb1-762c6527000f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multiple_turtles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,24 +71,40 @@
       <option name="presentableId" value="Default" />
       <updated>1594607419530</updated>
     </task>
+    <task id="LOCAL-00001" summary="Multiple turtles with random work.">
+      <created>1594608738805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594608738805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Multiple turtles with random work." />
+    <option name="LAST_COMMIT_MESSAGE" value="Multiple turtles with random work." />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="712" height="187" key="GridCell.Tab.0.bottom" timestamp="1594608577023">
+    <state x="89" y="23" key="CommitChangelistDialog2" timestamp="1594608738584">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594608577023" />
-    <state width="712" height="187" key="GridCell.Tab.0.center" timestamp="1594608577022">
+    <state x="89" y="23" key="CommitChangelistDialog2/49.23.1231.777@49.23.1231.777" timestamp="1594608738584" />
+    <state width="712" height="187" key="GridCell.Tab.0.bottom" timestamp="1594608741920">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594608577022" />
-    <state width="712" height="187" key="GridCell.Tab.0.left" timestamp="1594608577022">
+    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594608741920" />
+    <state width="712" height="187" key="GridCell.Tab.0.center" timestamp="1594608741919">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594608577022" />
-    <state width="712" height="187" key="GridCell.Tab.0.right" timestamp="1594608577022">
+    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594608741919" />
+    <state width="712" height="187" key="GridCell.Tab.0.left" timestamp="1594608741919">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594608577022" />
+    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594608741919" />
+    <state width="712" height="187" key="GridCell.Tab.0.right" timestamp="1594608741920">
+      <screen x="49" y="23" width="1231" height="777" />
+    </state>
+    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594608741920" />
   </component>
 </project>
