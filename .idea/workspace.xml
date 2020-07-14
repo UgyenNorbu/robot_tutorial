@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="985051f5-d126-4a6b-bfb1-762c6527000f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/math_fn_art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multiple_turtles.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiple_turtles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_fn_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/math_fn_art.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.multiple_turtles">
+  <component name="RunManager" selected="Python.game">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="math_fn_art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="robot_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,8 +102,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.multiple_turtles" />
+        <item itemvalue="Python.game" />
         <item itemvalue="Python.math_fn_art" />
+        <item itemvalue="Python.multiple_turtles" />
       </list>
     </recent_temporary>
   </component>
@@ -124,21 +145,41 @@
       <screen x="49" y="23" width="1231" height="777" />
     </state>
     <state x="89" y="23" key="CommitChangelistDialog2/49.23.1231.777@49.23.1231.777" timestamp="1594641068526" />
-    <state width="712" height="187" key="GridCell.Tab.0.bottom" timestamp="1594734726343">
-      <screen x="49" y="23" width="1231" height="777" />
+    <state width="1259" height="254" key="GridCell.Tab.0.bottom" timestamp="1594747110422">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594734726343" />
-    <state width="712" height="187" key="GridCell.Tab.0.center" timestamp="1594734726341">
-      <screen x="49" y="23" width="1231" height="777" />
+    <state width="1259" height="254" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594747110422" />
+    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594746794604" />
+    <state width="1259" height="254" key="GridCell.Tab.0.center" timestamp="1594747110420">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594734726341" />
-    <state width="712" height="187" key="GridCell.Tab.0.left" timestamp="1594734726340">
-      <screen x="49" y="23" width="1231" height="777" />
+    <state width="1259" height="254" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1594747110420" />
+    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594746794603" />
+    <state width="1259" height="254" key="GridCell.Tab.0.left" timestamp="1594747110419">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594734726340" />
-    <state width="712" height="187" key="GridCell.Tab.0.right" timestamp="1594734726342">
-      <screen x="49" y="23" width="1231" height="777" />
+    <state width="1259" height="254" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1594747110419" />
+    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594746794602" />
+    <state width="1259" height="254" key="GridCell.Tab.0.right" timestamp="1594747110421">
+      <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594734726342" />
+    <state width="1259" height="254" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1594747110421" />
+    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594746794603" />
+    <state width="1259" height="254" key="GridCell.Tab.1.bottom" timestamp="1594747110427">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="254" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1594747110427" />
+    <state width="1259" height="254" key="GridCell.Tab.1.center" timestamp="1594747110424">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="254" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1594747110424" />
+    <state width="1259" height="254" key="GridCell.Tab.1.left" timestamp="1594747110423">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="254" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1594747110423" />
+    <state width="1259" height="254" key="GridCell.Tab.1.right" timestamp="1594747110426">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="254" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1594747110426" />
   </component>
 </project>
