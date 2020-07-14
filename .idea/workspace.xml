@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="985051f5-d126-4a6b-bfb1-762c6527000f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/math_fn_art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/multiple_turtles.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiple_turtles.py" afterDir="false" />
     </list>
@@ -21,6 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ec4CSp9M5CTZigqgRJVEOjiDg9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +37,28 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.multiple_turtles">
+    <configuration name="math_fn_art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="robot_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/math_fn_art.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="multiple_turtles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="robot_tutorial" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -58,6 +83,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.multiple_turtles" />
+        <item itemvalue="Python.math_fn_art" />
       </list>
     </recent_temporary>
   </component>
@@ -79,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594608738805</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Multiple turtles with random work.">
+      <created>1594641068877</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594641068877</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -87,25 +120,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Multiple turtles with random work." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="89" y="23" key="CommitChangelistDialog2" timestamp="1594608738584">
+    <state x="89" y="23" key="CommitChangelistDialog2" timestamp="1594641068526">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state x="89" y="23" key="CommitChangelistDialog2/49.23.1231.777@49.23.1231.777" timestamp="1594608738584" />
-    <state width="712" height="187" key="GridCell.Tab.0.bottom" timestamp="1594640835785">
+    <state x="89" y="23" key="CommitChangelistDialog2/49.23.1231.777@49.23.1231.777" timestamp="1594641068526" />
+    <state width="712" height="187" key="GridCell.Tab.0.bottom" timestamp="1594734726343">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594640835785" />
-    <state width="712" height="187" key="GridCell.Tab.0.center" timestamp="1594640835783">
+    <state width="712" height="187" key="GridCell.Tab.0.bottom/49.23.1231.777@49.23.1231.777" timestamp="1594734726343" />
+    <state width="712" height="187" key="GridCell.Tab.0.center" timestamp="1594734726341">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594640835783" />
-    <state width="712" height="187" key="GridCell.Tab.0.left" timestamp="1594640835783">
+    <state width="712" height="187" key="GridCell.Tab.0.center/49.23.1231.777@49.23.1231.777" timestamp="1594734726341" />
+    <state width="712" height="187" key="GridCell.Tab.0.left" timestamp="1594734726340">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594640835783" />
-    <state width="712" height="187" key="GridCell.Tab.0.right" timestamp="1594640835784">
+    <state width="712" height="187" key="GridCell.Tab.0.left/49.23.1231.777@49.23.1231.777" timestamp="1594734726340" />
+    <state width="712" height="187" key="GridCell.Tab.0.right" timestamp="1594734726342">
       <screen x="49" y="23" width="1231" height="777" />
     </state>
-    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594640835784" />
+    <state width="712" height="187" key="GridCell.Tab.0.right/49.23.1231.777@49.23.1231.777" timestamp="1594734726342" />
   </component>
 </project>
